@@ -1,0 +1,15 @@
+@media screen and (max-width: 1400px){
+    body{
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media screen and (max-width: 870px){
+    .col-experience-1, .col-experience-2{
+        font-size: 0.8rem;
+    }
+    .summary, .experience{
+        margin-top: 25px;
+    }
+}
